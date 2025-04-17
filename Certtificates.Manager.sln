@@ -7,6 +7,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Certtificates.Manager", "Ce
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Certtificates.Manager.ConsoleApp", "Certtificates.Manager.ConsoleApp\Certtificates.Manager.ConsoleApp.csproj", "{80999681-09A1-4C5E-8849-44CCF7778229}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "publish", "publish", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		publish\Certtificates.Manager.deps.json = publish\Certtificates.Manager.deps.json
+		publish\Certtificates.Manager.dll = publish\Certtificates.Manager.dll
+		publish\Certtificates.Manager.exe = publish\Certtificates.Manager.exe
+		publish\Certtificates.Manager.pdb = publish\Certtificates.Manager.pdb
+		publish\Certtificates.Manager.runtimeconfig.json = publish\Certtificates.Manager.runtimeconfig.json
+		publish\readme.md = publish\readme.md
+		publish\Tela01.png = publish\Tela01.png
+		publish\Tela02.png = publish\Tela02.png
+		publish\Tela03.png = publish\Tela03.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
